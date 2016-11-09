@@ -1,7 +1,7 @@
 ﻿本项目已经不再更新维护，由LuaFramework_NGUI代替，
 LuaFramework_NGUI地址：https://github.com/jarjin/LuaFramework_NGUI
 
-有问题请加群：（2群）469941220 （3群）434341400
+有问题请加群：（2群）469941220 
 
 支持平台：PC/MAC/Android(armv7-a + Intel x86)/iOS(armv7 + arm64)/
 	  WP8(SimpleFramework_WP_v0.1.1 (nlua))/

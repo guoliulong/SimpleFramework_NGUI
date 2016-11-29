@@ -1,4 +1,6 @@
-﻿本项目已经不再更新维护，由LuaFramework_NGUI代替，
+﻿======start guoliulong================
+ 
+ 本项目已经不再更新维护，由LuaFramework_NGUI代替，
 LuaFramework_NGUI地址：https://github.com/jarjin/LuaFramework_NGUI
 
 有问题请加群：（2群）469941220 
